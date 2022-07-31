@@ -21,4 +21,4 @@
 **``` 3 ```**
 
 Bu fonksiyonda sürekli kendini çağırarak diziyi hep ikiye böldük. Her bölünmüş dizinin Merge işlemi için dizinin uzunluğu olan n işlem yapıldığından <b><u>Big-O gösterimi;</u><b><br>
-$$ O(n*(logn)) --> O(6*(log6)) olur! $$
+$$O(n*(logn)) --> O(6*(log6)) olur!$$
