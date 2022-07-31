@@ -1,9 +1,11 @@
 # Merge Sort Projesi
 ---
 
-**``` 1 ```** İlk olarak  dizimizi ikiye bölüyoruz. Bölünen dizileri tekrar bölüyoruz. Tek eleman kalana kadar devam ediyoruz...<br>
+**``` 1 ```** İlk olarak  dizimizi ikiye bölüyoruz. Bölünen dizileri tekrar bölüyoruz. Tek eleman kalana kadar devam ediyoruz...
+<br>
 
-**``` 2 ```** Bölme işleminden sonra, tek elemanlı dizilerimizi birleştiriyoruz. Sıralı dizi elde edinceye kadar bu işleme devam ediyoruz...<br>
+**``` 2 ```** Bölme işleminden sonra, tek elemanlı dizilerimizi birleştiriyoruz. Sıralı dizi elde edinceye kadar bu işleme devam ediyoruz...
+<br>
 
 
 |  |  |  |  |  |  |  |  |  |  |  |  | 
